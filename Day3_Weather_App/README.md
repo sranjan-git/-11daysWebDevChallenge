@@ -1,4 +1,4 @@
-Hi Everyone!
+Hi Everyone! Sudhanshu here.
 
 Today we're going to create a new web application with JavaScript (Vanilla JavaScript: No Framework).
 
@@ -17,4 +17,4 @@ Link to her Repo: https://github.com/manifestinteractive/weather-underground-ico
 
 The API provider is http://www.OpenWeatherMap.org
 
-To Create this web application please follow the tutorial on my channel:https://youtu.be/KqZGuzrY9D4
+
