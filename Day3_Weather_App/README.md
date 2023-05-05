@@ -2,8 +2,6 @@ Hi Everyone! Sudhanshu here.
 
 Today we're going to create a new web application with JavaScript (Vanilla JavaScript: No Framework).
 
-In this tutorial, a JavaScript Beginner can create a functional Weather App with ease. and won't face any problems doing that.
-
 You must know the basics in JavaScript and HTML, like JavaScript Objects, functions, If statements, ... etc
 
 The only difficulty you might face, is how to work with an API using JavaScript? but trust me that won't be of a big problem.
